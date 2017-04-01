@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CMakeBuilder": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Joshua T. Fisher\\Documents\\GitHub\\Reflection-Tests\\cmaketest\\Reflection"
+    }
+  }
+}
