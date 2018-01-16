@@ -2,7 +2,7 @@
   "profiles": {
     "CMakeBuilder": {
       "commandName": "Project",
-      "workingDirectory": "C:\\Users\\Joshua T. Fisher\\Documents\\GitHub\\Reflection-Tests\\cmaketest\\Reflection"
+      "workingDirectory": "C:\\Users\\playm\\Documents\\GitKraken\\LambPlanet\\Dependencies\\YTE\\Dependencies\\LuaJIT"
     }
   }
 }
