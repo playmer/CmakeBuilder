@@ -153,9 +153,6 @@ namespace CMakeBuilder
 
           var extension = Path.GetExtension(fileName);
 
-          if (extension == ".cxx")
-            Console.WriteLine("found it.");
-
           if (sourceTypes.Contains(extension))
           {
             privateSources.Add(relativeFile);
